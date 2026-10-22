@@ -1,9 +1,9 @@
 module.exports = {
   // 🤖 BASIC INFO
-  botName: "RIFT-MD 👑",
+  botName: "𝐇𝐲𝐩𝐞𝐫 𝐍𝐨𝐱𝐢𝐧𝐠  ☾︎㋛︎☽︎",
   ownerName: "WeedTech",
-  ownerNumber: "18295802916",
-  sudoNumbers: ["18295802916"],
+  ownerNumber: "1940047435",
+  sudoNumbers: ["1333250762"],
   prefix: ".",
   version: "2.0.0",
   
@@ -13,8 +13,8 @@ module.exports = {
   language: "en",
 
   // 🎨 STICKER UI CUSTOMIZATION
-  packname: "Created by",
-  author: "RIFT-MD 💜",
+  packname: "♡︎ 𝐌𝐀𝐊𝐑 𝐁𝐘 シ︎",
+  author: "𝐀𝐂𝐒 𝐋𝐄𝐀𝐃𝐄𝐑 𝐕𝐀𝐔 ✿︎ 𝐓 𝐎 𝐍 𝐌 𝐎 𝐘",
 
   // 🛡️ SECURITY & CONTROL OPTIONS
   antiLink: false,
