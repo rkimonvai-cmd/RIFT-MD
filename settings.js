@@ -1,12 +1,12 @@
 module.exports = {
   // 🤖 BASIC INFO
   botName: "𝐇𝐲𝐩𝐞𝐫 𝐍𝐨𝐱𝐢𝐧𝐠  ☾︎㋛︎☽︎",
-  ownerName: "WeedTech",
-  ownerNumber: "1940047435",
-  sudoNumbers: ["1333250762"],
+  ownerName: "Acs Tonmoy",
+  ownerNumber: "8801333250762",
+  sudoNumbers: ["8801333250762"],
   prefix: ".",
   version: "2.0.0",
-  
+
   // ⚙️ SYSTEM & ENVIRONMENT
   sessionName: "riftmd-session",
   timezone: "America",
